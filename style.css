@@ -1,0 +1,19 @@
+body,h1,h2{font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {line-height: 2}
+.bgimg, .bgimg2 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.demo {
+  text-align: center;
+  font-size: 100px;
+  margin-top: 0px;
+}
+.bgimg {background-image: url("img/wedding_couple.jpg")}
+.bgimg2 {background-image: url("img/flowers.jpg")}
+
+
+
+
